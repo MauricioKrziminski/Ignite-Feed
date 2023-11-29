@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto se trata de um feed do curso Ignite da plataforma Rocketseat, desenvolvido no período dos meus estudos de React.js.
+Este projeto é um feed simples de posts, onde desenvolvi pelo curso da Rocketseat visando aprender React.js e me aprofundar melhor na tecnologia.
 
 ##
 
