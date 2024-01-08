@@ -1,27 +1,17 @@
 {
-<<<<<<< HEAD
   "name": "ignite-project",
-=======
-  "name": "projeto-ignite",
->>>>>>> 9af2c5604fe91a9451ef8f8dd94984876d3142e4
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-<<<<<<< HEAD
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-=======
-    "build": "vite build",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
->>>>>>> 9af2c5604fe91a9451ef8f8dd94984876d3142e4
     "preview": "vite preview"
   },
   "dependencies": {
     "@phosphor-icons/react": "github:phosphor-icons/react",
     "date-fns": "^3.1.0",
-<<<<<<< HEAD
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -37,20 +27,5 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
-=======
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.12.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.2.37",
-    "@types/react-dom": "^18.2.15",
-    "@vitejs/plugin-react": "^4.2.0",
-    "eslint": "^8.53.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.4",
-    "vite": "^5.0.0"
->>>>>>> 9af2c5604fe91a9451ef8f8dd94984876d3142e4
   }
 }
