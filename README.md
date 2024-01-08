@@ -12,7 +12,7 @@ Este projeto é um clone de um feed de postagens onde foi criado durante meu per
 ##
 
 <p align="center">
-  © 2023
+  © 2024
   <a href="https://www.linkedin.com/in/mauricio-krziminski/" target="_blank"
     >Mauricio Krziminski</a>
 </p>
